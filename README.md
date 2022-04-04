@@ -1,3 +1,4 @@
 # DataComparer
 Data Comparer is a VBA Excel utility for data comparison between MIDAS and Chart of Account (COA).
-Test data has not yet been completed and will be provided in future updates.
+Test data and Usage guide is provided for demonstration purpose.
+The test data is just for demonstration purpose and is not the actual data
